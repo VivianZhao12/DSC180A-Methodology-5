@@ -1,7 +1,9 @@
 # Capstone MA5 Jekyll Website
 
 Vivian Zhao, vxzhao@ucsd.edu <br />
-Capstone DSC180A A09 with mentors Biwei Huang and Jelena Bradic
+**Learning and Using Causal Knowledge for Advancing Al and Scientific
+Discovery**
+with mentors Biwei Huang and Jelena Bradic
 
 **What is the most interesting topic covered in your domain this quarter?** <br />
 In the beginning of the quarter, our mentors went over how some of the causal algorithms determine the skeleton of relations between many variables. This process gave me insights into what the algorithm is doing (when i am waiting forever for it to run) behind the scenes.

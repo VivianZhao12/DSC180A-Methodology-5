@@ -10,5 +10,6 @@ In Quarter 2, I would like to apply what we learned this quarter about different
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?** <br />
 This quarter, our goal is to be familiar with each algorithm and their specialties. As a result our data used was simulated and we have a ground truth graph for it. Next quarter, I am hoping to apply this knowledge to real world data and discover some new causal insights in certain fields.
+
 **What other techniques would you be interested in using in your project?** <br />
 Besides using the Causal Learn packages as we did this quarter, I am interested to go through large data processing next quarter and discover some more methods on the way. 

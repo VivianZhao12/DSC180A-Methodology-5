@@ -1,5 +1,6 @@
 # Capstone MA5 Jekyll Website
-Vivian Zhao, vxzhao@ucsd.edu
+
+Vivian Zhao, vxzhao@ucsd.edu <br />
 Capstone DSC180A A09 with mentors Biwei Huang and Jelena Bradic
 
 **What is the most interesting topic covered in your domain this quarter?** <br />
